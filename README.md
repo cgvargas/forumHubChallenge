@@ -97,7 +97,7 @@ Forum Hub é um projeto desenvolvido como parte do desafio da plataforma de ensi
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT.
 
 ## Contato
 
